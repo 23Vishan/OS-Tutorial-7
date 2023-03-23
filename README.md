@@ -9,6 +9,9 @@
 ## How To Run
 Open a terminal in the folder containing all program files and execute the following command.
 ```
+# Make sigtrap executable
+make sigtrap
+
 # Question 1
 make 1
 

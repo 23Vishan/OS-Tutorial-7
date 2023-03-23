@@ -26,10 +26,10 @@ make 4
 make 5
 ```
 ## Question 1
-![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/videos/1.gif)
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/1.gif)
 
 ## Question 2
-![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/videos/2.gif)
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/2.gif)
 
 ## Question 3
 ![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/videos/3.gif)

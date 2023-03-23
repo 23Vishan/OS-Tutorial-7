@@ -19,7 +19,3 @@ sigtrap:
 5:
 	gcc -o question5 five.c
 	./question5
-
-all:
-	gcc -o question5 2.c
-	./question5

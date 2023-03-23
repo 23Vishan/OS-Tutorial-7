@@ -32,7 +32,7 @@ make 5
 ![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/2.gif)
 
 ## Question 3
-![]((https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/3.gif)
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/3.gif)
 
 ## Question 4
 ![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/4.gif)

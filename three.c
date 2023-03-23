@@ -36,6 +36,7 @@ int main(void)
 
             // wait for child to receive signal
             kill(child, SIGINT);
+            waitpid(child, NULL, WUNTRACED);
 
             printf("program completed\n");
             break;

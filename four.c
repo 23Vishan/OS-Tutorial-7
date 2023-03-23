@@ -36,16 +36,19 @@ int main(void)
 
             // stop child
             kill(child, SIGTSTP);
+            waitpid(child, NULL, WUNTRACED);
 
             sleep(10);
 
             // continue child
             kill(child, SIGCONT);
+            waitpid(child, NULL, __W_CONTINUED);
             
             sleep(5);
 
             // terminate child
             kill(child, SIGINT);
+            waitpid(child, NULL, WUNTRACED);
 
             printf("program completed\n");
             break;

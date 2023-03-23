@@ -1,13 +1,11 @@
 # Operating Systems - Tutorial 7
 ## SOFE - 3950U Operating Systems
-
+[Conceptual Questions](https://github.com/23Vishan/OS-Tutorial-7/blob/main/OS%20Tutorial%207%20-%20Google%20Docs.pdf)
 ## Group 2 - CRN 74171
 - Vishan Patel - 100784201
 - Akshat Kapoor - 100781511
 - Steven Mai - 100781485
 - Evidence Okeke - 100755328
-- [Report](https://github.com/23Vishan/OS-Tutorial-7/blob/main/OS%20Tutorial%207%20-%20Google%20Docs.pdf)
-
 ## How To Run
 Open a terminal in the folder containing all program files and execute the following command.
 ```

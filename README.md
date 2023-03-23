@@ -38,7 +38,7 @@ make 5
 ![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/4.gif)
 
 ## Question 5
-![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/videos/5.gif)
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/5.gif)
 
 ##
 Submitted: Wednesday, March 22nd, 2023

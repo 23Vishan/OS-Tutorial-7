@@ -1,3 +1,7 @@
+sigtrap:
+	gcc -o process sigtrap.c
+	./process
+
 1:
 	gcc -o question1 one.c
 	./question1
